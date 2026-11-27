@@ -1,0 +1,14 @@
+{
+  "name": "linkedin",
+  "description": "Eleven commands that run your LinkedIn with you: posts off 21 hook formulas in your own voice, comments, replies, your profile scored out of 100, the week's plan, carousels, DMs, your inbox sorted, and a cleanup for any draft. It writes; you post.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Brian MacDonald",
+    "url": "https://github.com/bmacbuilds"
+  },
+  "homepage": "https://github.com/bmacbuilds/linkedin-skill",
+  "repository": "https://github.com/bmacbuilds/linkedin-skill",
+  "license": "MIT",
+  "keywords": ["claude-code", "claude-skills", "linkedin", "posts", "writing", "content", "personal-brand"],
+  "skills": "./"
+}
